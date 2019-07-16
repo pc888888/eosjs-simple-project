@@ -25,7 +25,7 @@ async function main() {
             console.log(result.producer);
             console.log(result);
     } catch(error) {
-        consele.error;
+        console.error(error);
     }
 }
 main()
